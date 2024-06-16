@@ -1,5 +1,7 @@
 # Terminal-Breaker
-Break bricks in your terminal
+Break bricks in your terminal!
+
+![ezgif-3-2e4af6e241](https://github.com/Rational-Pigeon/Terminal-Breaker/assets/104268960/0a906c2c-6ed2-4bcb-b939-556b99aa2ef0)
 
 ## Overview
 Terminal Breaker is a classic brick breaker game developed in Python using the Blessed library. Designed to be played in any terminal emulator, the game allows players to control a paddle and bounce a ball to break bricks. The goal is to clear all bricks on the screen while preventing the ball from falling. This game was developed as the final project for CS50x.
